@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://your-banner-url.com/banner.png" alt="AI Researcher | Engineer | Innovator |" width="100%">
+  <img src="https://www.dropbox.com/scl/fi/pxo0n6zp5wofpajpwoiag/GitHub-Banner-1-Edit.png?rlkey=amyvxmdh23w973ticq9hzsof1&st=vs3q95e0&dl=0" alt="AI Researcher | Engineer | Innovator |" width="100%">
 </p>
 
 <!-- Social Buttons -->
@@ -49,8 +49,9 @@ My GitHub is a portfolio of repositories for **AI research, architecture explora
     <img src="https://your-gif-url.com/philosophy.gif" width="70%">
   </p>
   
-  Hi! I'm an **AI Researcher and Engineer** passionate about **human-centric AI, ethical machine learning, and innovative architectures** that push the boundaries of what’s possible for humanity. My research spans:
-  
+  I'm passionate about **human-centric AI, ethical machine learning, and innovative architectures** that push the boundaries of what’s possible for humanity.
+
+  A Taste of My Domain Interests:
   - **AI Ethics & Explainability** 🤖💡  
   - **Health, Medicine & Cognitive Science Applications** 🏥🧠  
   - **Human Intelligence & Decision Making** 🧑‍🏫⚖️  
