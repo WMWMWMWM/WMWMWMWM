@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 # 👋 Welcome to My AI Playground: 🤖 AI for Humanity | 🌌 AI Beyond Boundaries
 
 <!-- Banner -->
-<p align="center">
-  <img src="https://www.dropbox.com/scl/fi/pxo0n6zp5wofpajpwoiag/GitHub-Banner-1-Edit.png?rlkey=amyvxmdh23w973ticq9hzsof1&st=vs3q95e0&dl=0" alt="AI Researcher | Engineer | Innovator |" width="100%">
-</p>
+![AI Researcher | Engineer | Innovator](https://github.com/user-attachments/assets/913d4166-a1f5-40c0-b15d-cf448a2e0a6e)
 
 <!-- Social Buttons -->
 <p align="center">
