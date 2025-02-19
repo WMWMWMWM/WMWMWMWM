@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Welcome to My AI Playground: 🤖 AI for Humanity | 🌌 AI Beyond Boundaries
+# 👋 Welcome to My AI Playground: 🤖 AI for Humanity | 🌌 Cutting-Edge Discovery
 
 <!-- Banner -->
 ![AI Researcher | Engineer | Innovator](https://github.com/user-attachments/assets/913d4166-a1f5-40c0-b15d-cf448a2e0a6e)
@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 ---
 
 ## 👨‍🔬 AI Research | Engineer | Innovator  
-Welcome! I am an **AI Researcher and Engineer** with a mission to **build scalable, explainable, and responsible AI** for solutions that span multiple domains including **scientific discovery, healthcare, sports analytics, human intelligence, decision-making, and community-driven development**
+Welcome! I am an **AI Researcher and Engineer** with a mission to **build scalable, explainable, and responsible AI** for solutions that span domains seeking to **enhance human understanding, achievement, and connection**
 
-My GitHub is a portfolio of repositories for **AI research, architecture exploration, and scalable product development**
+My GitHub is a showcase of learning repositories toward these ends as well as my own experiments on **AI research, architecture exploration, and scalable product development**
 
 <details>
   <summary>💡**My Goals**💡</summary>
@@ -51,13 +51,13 @@ My GitHub is a portfolio of repositories for **AI research, architecture explora
 
   A Taste of My Domain Interests:
   - **AI Ethics & Explainability** 🤖💡  
-  - **Health, Medicine & Cognitive Science Applications** 🏥🧠  
+  - **Health, Medicine & Cognitive Science Discovery** 🏥🧠  
   - **Human Intelligence & Decision Making** 🧑‍🏫⚖️  
-  - **Entrepreneurship & Social AI for Development** 🌍🚀  
+  - **Entrepreneurship & Social AI for Community Development** 🌍🚀  
 
   My work combines **scientific discovery, engineering-driven AI models, and real-world application development**.
   
-  📌 **I’m always open to research collaborations, AI discussions, and innovative projects!**
+  🌱 **I’m always open to research collaborations, AI discussions, and innovative projects!**
 </details>
 
 ---
