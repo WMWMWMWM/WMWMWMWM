@@ -49,7 +49,7 @@ My GitHub is a portfolio of repositories for **AI research, architecture explora
     <img src="https://your-gif-url.com/philosophy.gif" width="70%">
   </p>
   
-  Hi! I'm an **AI Researcher and Engineer** passionate about **human-centric AI, ethical machine learning, and innovative architectures** that push the boundaries of what’s possible. My research spans:
+  Hi! I'm an **AI Researcher and Engineer** passionate about **human-centric AI, ethical machine learning, and innovative architectures** that push the boundaries of what’s possible for humanity. My research spans:
   
   - **AI Ethics & Explainability** 🤖💡  
   - **Health, Medicine & Cognitive Science Applications** 🏥🧠  
@@ -68,12 +68,9 @@ My GitHub is a portfolio of repositories for **AI research, architecture explora
   <summary>🧠 Research & Learning - Engineering-Driven investigation of the frontiers of AI, human cognition, and interdisciplinary applications </summary>
   
   **📌 Focus Areas:**  
-  - AI Ethics, Explainable AI, Responsible AI  
-  - AI in Healthcare, Sports, and Decision Sciences  
-  - Advanced Cognitive & Neuromorphic AI
-  - 🧠 Explainable AI, Responsible AI, and Ethical Machine Learning  for domain-driven research
-  - 🧠 AI applications in **medicine, cognitive science, decision-making, and social good**  
-  - 🧠 AI in Discovery, synthetic data, 
+  - 🧠 Explainable AI, Responsible AI, and Ethical AI for domain-driven research
+  - 🧠 AI discovery in **medicine, cognitive science, decision sciences, and social good**  
+  - 🧠 AI in synthetic data modeling and advanced understanding of the human-experience
 
   | Project Name | Description | Repo Link | Preview |
   |-------------|------------|-----------|---------|
@@ -85,11 +82,8 @@ My GitHub is a portfolio of repositories for **AI research, architecture explora
   <summary> 🌍 Explorative Architectures  - Data and design-driven investigation of novel models for cutting-edge AI fields.  </summary>
   
   **📌 Focus Areas:**  
-  - Comparing Deep Learning & Transformer Models  
-  - Agentic AI & Reinforcement Learning  
-  - Scaling and Benchmarking Novel Architectures
   - 🌍 Comparing **scalable deep learning models** for real-world performance  
-  - 🌍 Experimenting with **Agentic AI, multimodal AI, and advanced LLMs**  
+  - 🌍 Experimenting with **Agentic AI, multimodal AI, and novel deep learning architectures**  
   - 🌍 Optimization strategies for **low-latency, high-performance AI**  
 
   | Project Name | Description | Repo Link | Preview |
@@ -102,12 +96,9 @@ My GitHub is a portfolio of repositories for **AI research, architecture explora
   <summary>🔬 Scalable AI Tools & Applications  - Product-Driven AI tools for immediate and future impact.  </summary>
   
   **📌 Focus Areas:**  
-  - AI Tools for Industry & Scientific Discovery  
-  - Scalable AI for Entrepreneurship & Social Good  
-  - Real-World AI Deployment Strategies
-  - 🔬 Developing **open-source AI tools** for research & deployment  
-  - 🔬 AI-powered solutions in **entrepreneurship, education, and human intelligence**  
-  - 🔬 Benchmarking architectures to **enhance explainability & accessibility**    
+  - 🔬 Developing **open-source AI tools** for personalized research & deployment
+  - 🔬 AI-powered solutions in **entrepreneurship, education, and human understanding**  
+  - 🔬 Benchmarking architectures to **enhance explainability, feature engineering, & accessibility**    
 
   | Project Name | Description | Repo Link | Preview |
   |-------------|------------|-----------|---------|
