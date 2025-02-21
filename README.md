@@ -42,18 +42,30 @@ Welcome! I am an **AI Researcher and Engineer** with a mission to **build scalab
 My GitHub is a showcase of learning repositories toward these ends as well as my own experiments on **AI research, architecture exploration, and scalable product development**
 
 <details>
-  <summary>💡**My Goals**💡</summary>
-  <p align="center">
-    <img src="https://your-gif-url.com/philosophy.gif" width="70%">
-  </p>
-  
+  <summary>💡My Goals💡</summary>  
   I'm passionate about **human-centric AI, ethical machine learning, and innovative architectures** that push the boundaries of what’s possible for humanity.
 
   A Taste of My Domain Interests:
-  - **AI Ethics & Explainability** 🤖💡  
-  - **Health, Medicine & Cognitive Science Discovery** 🏥🧠  
-  - **Human Intelligence & Decision Making** 🧑‍🏫⚖️  
-  - **Entrepreneurship & Social AI for Community Development** 🌍🚀  
+  - **AI Ethics & Explainability** 🤖💡
+    <!--<p align="center">
+    <img src="https://your-gif-url.com/philosophy.gif" width="70%">
+    </p>
+    -->
+  - **Health, Medicine & Cognitive Science Discovery** 🏥🧠
+    <!--<p align="center">
+    <img src="https://your-gif-url.com/philosophy.gif" width="70%">
+    </p>
+    -->  
+  - **Human Intelligence & Decision Making** 🧑‍🏫⚖️
+    <!--<p align="center">
+    <img src="https://your-gif-url.com/philosophy.gif" width="70%">
+    </p>
+    -->  
+  - **Entrepreneurship & Social AI for Community Development** 🌍🚀
+    <!--<p align="center">
+    <img src="https://your-gif-url.com/philosophy.gif" width="70%">
+    </p>
+    -->  
 
   My work combines **scientific discovery, engineering-driven AI models, and real-world application development**.
   
